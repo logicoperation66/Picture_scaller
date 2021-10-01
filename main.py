@@ -17,3 +17,5 @@ def make_thumbnails(
 
 if __name__ == '__main__':
     typer.run(make_thumbnails)
+# Coś tu chyba nie śmiga... Let's find this out.. Alternatywnie zamiast
+# typer spróbować z 'click python'
